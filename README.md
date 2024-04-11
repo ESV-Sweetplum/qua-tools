@@ -4,7 +4,7 @@
 
 ## Installation
 
-Open a terminal in the root of your project, and run `npm i qua-tools --save-dev`.
+Open a terminal in the root of your project, and run `npm install @esv-sweetplum/qua-tools`.
 
 ## Usage
 
