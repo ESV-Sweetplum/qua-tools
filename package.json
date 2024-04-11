@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "tsup",
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "publishConfig": {
     "@esv-sweetplum:registry": "https://npm.pkg.github.com"
